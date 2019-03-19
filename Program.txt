@@ -1,0 +1,7 @@
+using System;
+
+namespace Program
+public interface IProgram
+{
+	void Nista();
+}
